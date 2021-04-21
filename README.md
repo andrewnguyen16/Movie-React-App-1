@@ -1,7 +1,10 @@
 # Movie-React-App
  
-# install dependencies
+# Install dependencies
 $ npm i || npm install
 
-# serve with hot reload at localhost
+# How To Run
 $ npm start
+
+Application will start at http://localhost:3000
+
